@@ -1,0 +1,32 @@
+body{
+    /* background-color: #12ab12; */
+
+    /* background-image: ;
+    background-attachment: fixed;
+
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    background-size: 200px; */
+
+    background:no-repeat center/cover url('images/tn_ARREY2.png')  ;
+
+}
+
+p{
+
+    opacity: 0.8;
+    /* border-style: dotted;
+    border-width: 1px;
+    border-color: brown; */
+
+    border: 5px solid blue ;
+    /* border-radius: 10px 1px 50px 3px; */
+    border-top-right-radius:10px ;
+    border-top-left-radius: 10px ;
+    /* border-left: 5px double blue;
+    border-right: 5px double violet;
+    border-bottom: 10px solid green;
+    border-top: 5px dashed red; */
+    /* background-color: #fff; */
+}
